@@ -15,7 +15,9 @@ def print_board(tic):
     prints the board
     """
     print(f"{tic[0]} | {tic[1]} | {tic[2]} ")
+    print("----------")
     print(f"{tic[3]} | {tic[4]} | {tic[5]} ")
+    print("----------")
     print(f"{tic[6]} | {tic[7]} | {tic[8]} ")
         
 
